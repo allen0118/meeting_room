@@ -1,0 +1,4 @@
+06/19/2018 11:03:47 
+ English Message : Entity mapping error.Invalid cast from 'System.DateTime' to 'System.Data.SqlTypes.SqlDateTime'.
+ Chinese Message : 实体与表映射出错。Invalid cast from 'System.DateTime' to 'System.Data.SqlTypes.SqlDateTime'. 出错页[Users.aspx]
+---------------------------------------------------------------------------------------------------------------------------------------------

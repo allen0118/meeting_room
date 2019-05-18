@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssk.web", "ssk.web\ssk.web.csproj", "{BDC690E6-B718-4D51-93C4-7F5230A7B7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssk.Model", "..\ssk.Model\ssk.Model.csproj", "{60AF4694-44AF-4281-91A2-2BFD696FD7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssk.Entity", "..\ssk.Entity\ssk.Entity.csproj", "{F4911131-D3E2-4D72-BE82-26A2FE60F206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC690E6-B718-4D51-93C4-7F5230A7B7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC690E6-B718-4D51-93C4-7F5230A7B7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC690E6-B718-4D51-93C4-7F5230A7B7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC690E6-B718-4D51-93C4-7F5230A7B7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AF4694-44AF-4281-91A2-2BFD696FD7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AF4694-44AF-4281-91A2-2BFD696FD7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AF4694-44AF-4281-91A2-2BFD696FD7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AF4694-44AF-4281-91A2-2BFD696FD7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4911131-D3E2-4D72-BE82-26A2FE60F206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4911131-D3E2-4D72-BE82-26A2FE60F206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4911131-D3E2-4D72-BE82-26A2FE60F206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4911131-D3E2-4D72-BE82-26A2FE60F206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

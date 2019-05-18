@@ -1,0 +1,16 @@
+E:\mts\Meeting\Meeting\ssk.Model\bin\Debug\ssk.Model.dll
+E:\mts\Meeting\Meeting\ssk.Model\bin\Debug\ssk.Model.pdb
+E:\mts\Meeting\Meeting\ssk.Model\obj\Debug\ssk.Model.dll
+E:\mts\Meeting\Meeting\ssk.Model\obj\Debug\ssk.Model.pdb
+E:\mts\Meeting\Meeting\ssk.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\mts\Meeting\Meeting\ssk.Model\bin\Debug\Newtonsoft.Json.dll
+E:\mts\Meeting\Meeting\ssk.Model\bin\Debug\SqlSugar.dll
+D:\Projects\会议室\Meeting\ssk.Model\bin\Debug\ssk.Model.dll
+D:\Projects\会议室\Meeting\ssk.Model\bin\Debug\ssk.Model.pdb
+D:\Projects\会议室\Meeting\ssk.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\会议室\Meeting\ssk.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\会议室\Meeting\ssk.Model\bin\Debug\SqlSugar.dll
+D:\Projects\会议室\Meeting\ssk.Model\obj\Debug\ssk.Model.csprojResolveAssemblyReference.cache
+D:\Projects\会议室\Meeting\ssk.Model\obj\Debug\ssk.Model.dll
+D:\Projects\会议室\Meeting\ssk.Model\obj\Debug\ssk.Model.pdb
+E:\mts\Meeting\Meeting\ssk.Model\obj\Debug\ssk.Model.csprojResolveAssemblyReference.cache
